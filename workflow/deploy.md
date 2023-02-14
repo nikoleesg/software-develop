@@ -67,3 +67,8 @@
     php artisan up
     ````
     ![image](https://user-images.githubusercontent.com/103056751/218787339-61c31dd9-a4d4-49f2-a899-fde4a5ef1140.png)
+
+10. Log off EC2 instance
+    ````bash
+    exit
+    ````
